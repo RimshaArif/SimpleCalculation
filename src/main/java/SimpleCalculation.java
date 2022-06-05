@@ -1,4 +1,4 @@
-public class MathService {
+public class SimpleCalculation {
     public int multiply(int firstNumber, int secondNumber) {
 
         return firstNumber * secondNumber;
