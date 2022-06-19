@@ -1,6 +1,6 @@
-projectKey=SimpleCalculation
+projectKey=TerminalExam
 serverUrl=http://localhost:9000
 serverVersion=9.4.0.54424
-dashboardUrl=http://localhost:9000/dashboard?id=SimpleCalculation
-ceTaskId=AYE97OInSQZFmmpgO-p-
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYE97OInSQZFmmpgO-p-
+dashboardUrl=http://localhost:9000/dashboard?id=TerminalExam
+ceTaskId=AYF9gCh9Klqdv0SZHQy1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYF9gCh9Klqdv0SZHQy1

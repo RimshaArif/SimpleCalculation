@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SimpleCalculationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-05T16:52:52" hostname="DESKTOP-4M0DFRN" time="0.015">
+<testsuite name="SimpleCalculationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-06-19T19:45:33" hostname="DESKTOP-4M0DFRN" time="0.014">
   <properties/>
-  <testcase name="subtract" classname="SimpleCalculationTest" time="0.015"/>
-  <testcase name="multiply" classname="SimpleCalculationTest" time="0.0"/>
+  <testcase name="subtract" classname="SimpleCalculationTest" time="0.011"/>
+  <testcase name="divide" classname="SimpleCalculationTest" time="0.0"/>
+  <testcase name="add" classname="SimpleCalculationTest" time="0.0"/>
+  <testcase name="multiply" classname="SimpleCalculationTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
